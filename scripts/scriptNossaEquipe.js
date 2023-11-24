@@ -35,7 +35,8 @@ cards.forEach((card, index) => {
   const msgRM =
     "Criação de Ideias <br> Produção de textos <br> Produção completa do vídeo pitch <br> Produção da identidade visual";
 
-  const msgRR = "Funções e Back End <br> FrontEnd <br> Criação de ideais";
+  const msgRR =
+    "Funções e Back End <br> Front End <br> Colaboração de ideias <br> Revisão de textos";
 
   let msgs = [msgC, msgD, msgRM, msgRR];
   let imgs = [
